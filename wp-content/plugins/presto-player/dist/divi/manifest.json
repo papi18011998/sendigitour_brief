@@ -1,0 +1,32 @@
+{
+  "admin.css": "divi/admin-c44c11b8.css",
+  "admin.css.map": "divi/admin-c44c11b8.css.map",
+  "admin.js": "divi/admin-ca945bf9.js",
+  "admin.js.map": "divi/admin-ca945bf9.js.map",
+  "runtime.js": "divi/runtime-ff93ff9a.js",
+  "runtime.js.map": "divi/runtime-ff93ff9a.js.map",
+  "vendors--presto-player--admin.js": "divi/vendors--presto-player--admin-48235154.js",
+  "vendors--presto-player--admin.js.map": "divi/vendors--presto-player--admin-48235154.js.map",
+  "wpackioEp": {
+    "admin": {
+      "assets": {
+        "js": [
+          "divi/runtime-ff93ff9a.js",
+          "divi/vendors--presto-player--admin-48235154.js",
+          "divi/admin-ca945bf9.js"
+        ],
+        "js.map": [
+          "divi/runtime-ff93ff9a.js.map",
+          "divi/vendors--presto-player--admin-48235154.js.map",
+          "divi/admin-ca945bf9.js.map"
+        ],
+        "css": [
+          "divi/admin-c44c11b8.css"
+        ],
+        "css.map": [
+          "divi/admin-c44c11b8.css.map"
+        ]
+      }
+    }
+  }
+}
